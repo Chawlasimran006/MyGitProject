@@ -3,6 +3,9 @@
 ## 📖 Description  
 This project is created as part of Git Practical 6 to understand the usage of `.gitignore` and `README.md` files in a repository.  
 
+## GitHub Actions
+This repository now includes a basic GitHub Action workflow to automate tasks on push events.
+
 ### **Why This Project?**  
 - To learn how to manage ignored files using `.gitignore`.  
 - To structure a `README.md` file with project details.  
